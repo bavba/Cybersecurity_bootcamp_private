@@ -1,0 +1,24 @@
+https://attack.mitre.org/
+https://www.tarlogic.com/es/blog/cvss-vulnerabilidades-it/
+https://www.zerodayinitiative.com/
+https://www.youtube.com/watch?v=ALjw2M0Py1o (edited) 
+https://en.wikipedia.org/wiki/ARP_spoofing#/media/File:ARP_Spoofing.svg
+https://sharkfestus.wireshark.org/sharkfest.11/presentations/McCanne-Sharkfest'11_Keynote_Address.pdf
+https://medium.com/asecuritysite-when-bob-met-alice/so-how-does-padding-work-in-rsa-6b34a123ca1f
+https://archiv.infsec.ethz.ch/education/fs08/secsem/bleichenbacher98.pdf
+https://www.cvedetails.com/vulnerability-list/vendor_id-334/RSA.html
+https://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf
+https://www.openssl.org/
+https://www.ietf.org/rfc/rfc3447.txt
+https://www.openssl.org/docs/man1.1.1/man7/RAND_DRBG.html -> https://eprint.iacr.org/2016/367.pdf -> https://crypto.stackexchange.com/questions/27400/cryptographic-random-numbers-for-key-generation
+https://blog.cryptographyengineering.com/2013/09/18/the-many-flaws-of-dualecdrbg/
+https://www.openssl.org/docs/man1.1.1/man3/RSA_padding_check_SSLv23.html
+https://www.mkssoftware.com/docs/man1/openssl_rsautl.1.asp
+https://formal.kastel.kit.edu/klebanov/pubs/ccs2016.pdf
+https://security.stackexchange.com/questions/47598/why-openssl-cant-use-dev-random-directly
+https://eprint.iacr.org/2016/367.pdf
+https://cryptosource.de/blogpost__openssl_rng_flaws_en.html
+https://www.flu-project.com/2019/10/generacion-claves-rsa-Parte-1.html
+https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-90ar1.pdf
+https://www.keylength.com/en/3/
+
